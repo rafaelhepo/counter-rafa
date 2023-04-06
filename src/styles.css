@@ -1,0 +1,51 @@
+
+
+
+
+html, body {
+    background-color: #2244bd;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.3rem;
+    /* padding: 100px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    padding-top: 80px;
+}
+
+button {
+    padding: 15px;
+    font-size: 1.3rem;
+    margin-right: 15px;
+    border-radius: 25px;
+    border: none;
+    /* background-color: #2244bd; */
+}
+
+
+.plus-one:hover {
+    background-color: rgba(79, 207, 11, 0.593);
+    color: rgb(220, 237, 243);
+    border: white;
+}
+
+
+.minus-one:hover {
+    background-color: #f30808d9;
+    color: white;
+    border: #21232A;
+}
+
+
+.reset:hover {
+    background-color: #eb1696;
+    color: white;
+    border: #21232A;
+    
+}
+
+footer {
+    padding-bottom: 10px;
+}
